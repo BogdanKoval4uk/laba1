@@ -32,9 +32,18 @@ tar -C   - используется для указания папки
 find -type f  - счёт файлов в директоии,  где maxdepth 1 — глубина поиска
 
 4 задание
+
+
+
+
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2021-42-38.png)
 
 5 задание
+
+
+
+
+
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2021-47-57.png)
 
 6 задание
