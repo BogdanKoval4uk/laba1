@@ -33,3 +33,4 @@ find -type f  - счёт файлов в директоии,  где maxdepth 1 
 
 4 задание
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/Снимок экрана от 2023-04-10 21-42-38.png)
+
