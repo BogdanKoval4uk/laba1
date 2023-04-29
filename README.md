@@ -49,21 +49,23 @@ find -type f  - счёт файлов в директоии,  где maxdepth 1 
 wc -l    - отображение файлов
 
 
-### 7 задание
+#### 7 задание
 
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2021-56-56.png)
 
 grep -r    - первый параметр представляет регулярный параметр для поиска, а второй представляет каталог, в котором необходимо искать (в данном случае текущий каталог)
 
 
-### 8 задание
+#### 8 задание
 
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2022-04-37.png)
+
 ./script.sh   - запуск скрипта
 --prefix=Prefix   - папка для установки программы
+
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2022-04-37.png)
 
-###9 задание 
+#### 9 задание 
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2022-13-09.png)
 mkdir   - создание директории (папки)
 ![image](https://github.com/BogdanKoval4uk/laba1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-10%2022-13-14.png)
